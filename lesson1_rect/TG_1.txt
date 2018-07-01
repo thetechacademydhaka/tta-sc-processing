@@ -1,0 +1,9 @@
+1) Move to object to right corner of the screen
+2) Move the object to the bottom of the screen
+3) Make the object a rectangle
+4) Make it almost half the size of the screen
+
+Extra tasks: 
+
+5) Make it a vertical line
+6) Make it a horizental line 

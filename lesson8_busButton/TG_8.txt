@@ -1,0 +1,2 @@
+1) Make a box and add a text in that box
+2) Create three more boxes and put texts such that it is similar to a button, but not a working button

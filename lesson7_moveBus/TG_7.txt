@@ -1,0 +1,2 @@
+1) Add a new variable y
+2) Make the two objects move at different speeds

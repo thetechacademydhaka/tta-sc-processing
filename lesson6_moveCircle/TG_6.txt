@@ -1,0 +1,10 @@
+1) Make the object bigger
+2) Shift the object to the bottom of the screen
+3) Add a new variable y
+4) Make the object move from top to bottom of the screen
+5) Make the object move faster
+
+
+Extra : 
+
+Make one object move top to bottom and another object left to right

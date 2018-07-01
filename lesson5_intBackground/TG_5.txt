@@ -1,0 +1,4 @@
+1) Change the name of x to something else
+2) Change the color of the background to white
+4) Change the color of the background to black
+3) Change the color of the background to a combination of R G and B of your choice

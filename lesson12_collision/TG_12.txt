@@ -1,0 +1,7 @@
+1) Shift the vertical block to a horizental one
+2) Make object move up and down
+3) Implement the collision logic for this case
+
+Extra : 
+
+Add a score when there is a collision

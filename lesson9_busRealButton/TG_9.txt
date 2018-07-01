@@ -1,0 +1,4 @@
+1) Invert the two commands of the buttons
+2) Shift the button to the left side of the screen (also move the text and change the logic in the IF statement)
+3) Add a new button with text
+4) Make that button print "Hello I am a button" when pressed

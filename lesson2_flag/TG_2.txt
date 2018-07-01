@@ -1,0 +1,6 @@
+1) Make the rectangle bigger
+2) Draw an ellipse
+3) Make a circle
+4) Make circle bigger
+5) Arrange the two objects such that it resembles a bangladesh flag without colors
+ 

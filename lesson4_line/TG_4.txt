@@ -1,0 +1,9 @@
+1) Draw a horizental line such that its width is more than half of screen size
+2) Draw a vertical line in similar pattern
+3) Draw two vertical lines side by side, keep some gap in between
+4) Draw lines in between as such that, it looks like a road lane
+
+Extra Task: 
+
+5) Add yellow colors on the left side of the lane
+6) Make white blocks in the road lane instead of lines
